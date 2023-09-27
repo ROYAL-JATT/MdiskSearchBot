@@ -15,41 +15,41 @@ class Config(object):
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
     ABOUT_BOT_TEXT = """<b>This is Mdisk Search Bot.
 
-🤖 My Name: <a href='https://t.me/cyniteofficial'>Mdisk Search Robot</a>
+🤖 Mʏ Nᴀᴍᴇ: <a href='https://t.me/MOVIES_VILLA_UPDATE'>Mᴏᴠɪᴇs Vɪʟʟᴀ</a>
 
-📝 Language : <a href='https://www.python.org'> Python V3</a>
+📝 Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org'> Pʏᴛʜᴏɴ V𝟹</a>
 
-📚 Library: <a href='https://docs.pyrogram.org'> Pyrogram</a>
+📚 Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org'> Pʏʀᴏɢʀᴀᴍ</a>
 
-📡 Server: <a href='https://heroku.com'>Heroku</a>
+📡 Sᴇʀᴠᴇʀ: <a href='https://heroku.com'>Hᴇʀᴏᴋᴜ</a>
 
-👨‍💻 Created By: <a href='https://t.me/cyniteofficial'>Cynite</a></b>
+👨‍💻 Cʀᴇᴀᴛᴇᴅ Bʏ: <a href='https://t.me/MOVIES_VILLA_UPDATE'>Mᴏᴠɪᴇs Vɪʟʟᴀ</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='https://t.me/cyniteofficial'>Click Me</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/ROYAL_GAGAN_DEEP_SINGH_MEHRA'>Oᴡɴᴇʀ</a>
 
-If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
+Iғ Yᴏᴜ Wᴀɴᴛ Yᴏᴜʀ Oᴡɴ Bᴏᴛ Lɪᴋᴇ Tʜɪs Tʜᴇɴ Yᴏᴜ Cᴀɴ Cᴏɴᴛᴀᴄᴛ Oᴜʀ Dᴇᴠᴇʟᴏᴘᴇʀ.</b>
 """
 
     HOME_TEXT = """
-<b>Hey! {}😅,
+<b>Hᴇʏ! {}👀,
 
-I'm Mdisk Search Robot.🤖</a>
+I'ᴍ Mᴅɪsᴋ Sᴇᴀʀᴄʜ Rᴏʙᴏᴛ.🤖</a>
 
-I Can Search 🔍 What You Want❗
+I Cᴀɴ Sᴇᴀʀᴄʜ 🔍 Wʜᴀᴛ Yᴏᴜ Wᴀɴᴛ❗
 
-<a>Made With ❤ By @Cyniteofficial</a></b>
+<a>Mᴀᴅᴇ Wɪᴛʜ ❤ Bʏ <a href='https://t.me/ROYAL_GAGAN_DEEP_SINGH_MEHRA'>Oᴡɴᴇʀ</a></a></b>
 """
 
 
     START_MSG = """
-<b>Hey! {}😅,
+<b>Hᴇʏ! {}👀,
 
-I'm Mdisk Search Robot.🤖</a>
+I'ᴍ Mᴅɪsᴋ Sᴇᴀʀᴄʜ Rᴏʙᴏᴛ.🤖</a>
 
-I Can Search 🔍 What You Want❗
+I Cᴀɴ Sᴇᴀʀᴄʜ 🔍 Wʜᴀᴛ Yᴏᴜ Wᴀɴᴛ❗
 
-<a>Made With ❤ By @Cyniteofficial</a></b>
+<a>Mᴀᴅᴇ Wɪᴛʜ ❤ Bʏ <a href='https://t.me/ROYAL_GAGAN_DEEP_SINGH_MEHRA'>Oᴡɴᴇʀ</a></a></b>
 """
 
 
